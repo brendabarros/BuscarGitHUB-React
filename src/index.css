@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", "sans-serif";
+  color: #FFF;
+
+}
+body{
+  background-color: rgb(30, 30, 30);
+  padding: 2rem;
+}
+p{
+  align-items: center;
+}
+a{
+  text-decoration: none;
+}
